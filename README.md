@@ -12,6 +12,6 @@
   [x] Não é permitido o cadastro por usuários que não sejam administradores
 
 - Cadastros de elogios  
-  [ ] Não é permitido cadastrar um elogio para si  
-  [ ] Não é permitido cadastrar elogios para usuários inválidos  
-  [ ] O usuário precisa estar autenticado na aplicação
+  [x] Não é permitido cadastrar um elogio para si  
+  [x] Não é permitido cadastrar elogios para usuários inválidos  
+  [x] O usuário precisa estar autenticado na aplicação
